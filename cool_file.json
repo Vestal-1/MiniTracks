@@ -1,6 +1,6 @@
 [
-  {"url":"elec10.wav","type":"audio","bank":"omg","n":0},
-  {"url":"elec2.wav","type":"audio","bank":"omg","n":1},
-  {"url":"elec4.wav","type":"audio","bank":"omg","n":2},
-  {"url":"elec5.wav","type":"audio","bank":"omg","n":3}
+  {"url":"./elec/elec10.wav","type":"audio","bank":"omg","n":0},
+  {"url":"./elec/elec2.wav","type":"audio","bank":"omg","n":1},
+  {"url":"./elec/elec4.wav","type":"audio","bank":"omg","n":2},
+  {"url":"./elec/elec5.wav","type":"audio","bank":"omg","n":3}
 ]
