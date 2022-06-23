@@ -39,6 +39,41 @@
   {"url":"./dfm/fm9.wav","type":"audio","bank":"dfm","n":9},
   {"url":"./dfm/fm10.wav","type":"audio","bank":"dfm","n":10},
   {"url":"./dfm/fm11.wav","type":"audio","bank":"dfm","n":11},
-  {"url":"./dfm/fm12.wav","type":"audio","bank":"dfm","n":12}
+  {"url":"./dfm/fm12.wav","type":"audio","bank":"dfm","n":12},
+  
+  {"url":"./dgx/dgx.wav","type":"audio","bank":"dgx","n":0},
+  {"url":"./dgx/dgx1.wav","type":"audio","bank":"dgx","n":1},
+  {"url":"./dgx/dgx2.wav","type":"audio","bank":"dgx","n":2},
+  {"url":"./dgx/dgx3.wav","type":"audio","bank":"dgx","n":3},
+  {"url":"./dgx/dgx4.wav","type":"audio","bank":"dgx","n":4},
+  {"url":"./dgx/dgx5.wav","type":"audio","bank":"dgx","n":5},
+  
+  {"url":"./knx/knx.wav","type":"audio","bank":"knx","n":0},
+  {"url":"./elec2/knx1.wav","type":"audio","bank":"knx","n":1},
+  {"url":"./elec2/knx2.wav","type":"audio","bank":"knx","n":2},
+  {"url":"./elec2/knx3.wav","type":"audio","bank":"knx","n":3},
+  {"url":"./elec2/knx4.wav","type":"audio","bank":"knx","n":4},
+  {"url":"./elec2/knx5.wav","type":"audio","bank":"knx","n":5},
+  {"url":"./elec2/knx6.wav","type":"audio","bank":"knx","n":6},
+  {"url":"./elec2/knx7.wav","type":"audio","bank":"knx","n":7},
+  
+  {"url":"./vaso/vaso.wav","type":"audio","bank":"vaso","n":0},
+  {"url":"./vaso/vaso1.wav","type":"audio","bank":"vaso","n":1},
+  {"url":"./vaso/vaso2.wav","type":"audio","bank":"vaso","n":2},
+  {"url":"./vaso/vaso3.wav","type":"audio","bank":"vaso","n":3},
+  {"url":"./vaso/vaso4.wav","type":"audio","bank":"vaso","n":4},
+  {"url":"./vaso/vaso5.wav","type":"audio","bank":"vaso","n":5},
+  {"url":"./vaso/vaso6.wav","type":"audio","bank":"vaso","n":6},
+  {"url":"./vaso/vaso7.wav","type":"audio","bank":"vaso","n":7},
+  {"url":"./vaso/vaso8.wav","type":"audio","bank":"vaso","n":8},
+  {"url":"./vaso/vaso9.wav","type":"audio","bank":"vaso","n":9},
+  {"url":"./vaso/vaso10.wav","type":"audio","bank":"vaso","n":10},
+  {"url":"./vaso/vaso11.wav","type":"audio","bank":"vaso","n":11},
+  {"url":"./vaso/vaso12.wav","type":"audio","bank":"vaso","n":12},
+  
+  {"url":"./cielo/lluvia1.wav","type":"audio","bank":"lluvia","n":0},
+  {"url":"./cielo/lluvia2.wav","type":"audio","bank":"lluvia","n":1},
+  {"url":"./cielo/lluVIA3.wav","type":"audio","bank":"lluvia","n":2},
+  {"url":"./cielo/lluvia4.wav","type":"audio","bank":"lluvia","n":3}
   
 ]
