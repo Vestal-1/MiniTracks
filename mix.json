@@ -76,6 +76,27 @@
   {"url":"./vida/blob.wav","type":"audio","bank":"vida","n":2},
   
   {"url":"./bici/bici.wav","type":"audio","bank":"bici","n":0},
-  {"url":"./bici/bici1.wav","type":"audio","bank":"bici","n":1}
+  {"url":"./bici/bici1.wav","type":"audio","bank":"bici","n":1},
   
+  {"url":"./cielo/lluvia1.wav","type":"audio","bank":"lluvia","n":0},
+  {"url":"./cielo/lluvia2.wav","type":"audio","bank":"lluvia","n":1},
+  {"url":"./cielo/lluVIA3.wav","type":"audio","bank":"lluvia","n":2},
+  {"url":"./cielo/lluvia4.wav","type":"audio","bank":"lluvia","n":3},
+  
+  {"url":"./ave/ave.wav","type":"audio","bank":"ave","n":0},
+  {"url":"./ave/ave1.wav","type":"audio","bank":"ave","n":1},
+  {"url":"./ave/ave2.wav","type":"audio","bank":"ave","n":2},
+  {"url":"./ave/ave3.wav","type":"audio","bank":"ave","n":3},
+  {"url":"./ave/ave4.wav","type":"audio","bank":"ave","n":4},
+  {"url":"./ave/ave5.wav","type":"audio","bank":"ave","n":5},
+  {"url":"./ave/ave6.wav","type":"audio","bank":"ave","n":6},
+  {"url":"./ave/ave7.wav","type":"audio","bank":"ave","n":7},
+  {"url":"./ave/ave8.wav","type":"audio","bank":"ave","n":8},
+  {"url":"./ave/ave9.wav","type":"audio","bank":"ave","n":9},
+  {"url":"./ave/ave10.wav","type":"audio","bank":"ave","n":10},
+  {"url":"./ave/ave11.wav","type":"audio","bank":"ave","n":11},
+  {"url":"./ave/ave12.wav","type":"audio","bank":"ave","n":12},
+  {"url":"./ave/ave13.wav","type":"audio","bank":"ave","n":13},
+  {"url":"./ave/ave14.wav","type":"audio","bank":"ave","n":14},
+
 ]
