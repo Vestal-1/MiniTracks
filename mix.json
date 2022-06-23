@@ -27,18 +27,18 @@
   {"url":"./mo/mo3.wav","type":"audio","bank":"boca","n":3},
   {"url":"./mo/mo4.wav","type":"audio","bank":"boca","n":4},
   
-  {"url":"./dfm/dfm.wav","type":"audio","bank":"dfm","n":0},
-  {"url":"./dfm/dfm1.wav","type":"audio","bank":"dfm","n":1},
-  {"url":"./dfm/dfm2.wav","type":"audio","bank":"dfm","n":2},
-  {"url":"./dfm/dfm3.wav","type":"audio","bank":"dfm","n":3},
-  {"url":"./dfm/dfm4.wav","type":"audio","bank":"dfm","n":4},
-  {"url":"./dfm/dfm5.wav","type":"audio","bank":"dfm","n":5},
-  {"url":"./dfm/dfm6.wav","type":"audio","bank":"dfm","n":6},
-  {"url":"./dfm/dfm7.wav","type":"audio","bank":"dfm","n":7},
-  {"url":"./dfm/dfm8.wav","type":"audio","bank":"dfm","n":8},
-  {"url":"./dfm/dfm9.wav","type":"audio","bank":"dfm","n":9},
-  {"url":"./dfm/dfm10.wav","type":"audio","bank":"dfm","n":10},
-  {"url":"./dfm/dfm11.wav","type":"audio","bank":"dfm","n":11},
-  {"url":"./dfm/dfm12.wav","type":"audio","bank":"dfm","n":12}
+  {"url":"./dfm/fm.wav","type":"audio","bank":"dfm","n":0},
+  {"url":"./dfm/fm1.wav","type":"audio","bank":"dfm","n":1},
+  {"url":"./dfm/fm2.wav","type":"audio","bank":"dfm","n":2},
+  {"url":"./dfm/fm3.wav","type":"audio","bank":"dfm","n":3},
+  {"url":"./dfm/fm4.wav","type":"audio","bank":"dfm","n":4},
+  {"url":"./dfm/fm5.wav","type":"audio","bank":"dfm","n":5},
+  {"url":"./dfm/fm6.wav","type":"audio","bank":"dfm","n":6},
+  {"url":"./dfm/fm7.wav","type":"audio","bank":"dfm","n":7},
+  {"url":"./dfm/fm8.wav","type":"audio","bank":"dfm","n":8},
+  {"url":"./dfm/fm9.wav","type":"audio","bank":"dfm","n":9},
+  {"url":"./dfm/fm10.wav","type":"audio","bank":"dfm","n":10},
+  {"url":"./dfm/fm11.wav","type":"audio","bank":"dfm","n":11},
+  {"url":"./dfm/fm12.wav","type":"audio","bank":"dfm","n":12}
   
 ]
