@@ -8,5 +8,17 @@
   {"url":"./elec/elec7.wav","type":"audio","bank":"e1s","n":6},
   {"url":"./elec/elec8.wav","type":"audio","bank":"e1s","n":7},
   {"url":"./elec/elec9.wav","type":"audio","bank":"e1s","n":8},
-  {"url":"./elec/elec10.wav","type":"audio","bank":"e1s","n":9}
+  {"url":"./elec/elec10.wav","type":"audio","bank":"e1s","n":9},
+]
+
+[
+  {"url":"./elec/elec2.wav","type":"audio","bank":"e2s","n":0},
+  {"url":"./elec/elec2_1.wav","type":"audio","bank":"e2s","n":1},
+  {"url":"./elec/elec2_2.wav","type":"audio","bank":"e2s","n":2},
+  {"url":"./elec/elec2_3.wav","type":"audio","bank":"e2s","n":3},
+  {"url":"./elec/elec2_4.wav","type":"audio","bank":"e2s","n":4},
+  {"url":"./elec/elec2_5.wav","type":"audio","bank":"e2s","n":5},
+  {"url":"./elec/elec2_6.wav","type":"audio","bank":"e2s","n":6},
+  {"url":"./elec/elec2_7.wav","type":"audio","bank":"e2s","n":7},
+  {"url":"./elec/elec2_8.wav","type":"audio","bank":"e2s","n":8}
 ]
