@@ -71,9 +71,12 @@
   {"url":"./vaso/vaso11.wav","type":"audio","bank":"vaso","n":11},
   {"url":"./vaso/vaso12.wav","type":"audio","bank":"vaso","n":12},
   
-  {"url":"./vida/wof.wav","type":"audio","bank":"vida","n":0},
-  {"url":"./vida/blob1.wav","type":"audio","bank":"vida","n":1},
-  {"url":"./vida/blob.wav","type":"audio","bank":"vida","n":2},
+  {"url":"./vida/vida.wav","type":"audio","bank":"vida","n":0},
+  {"url":"./vida/vida1.wav","type":"audio","bank":"vida","n":1},
+  {"url":"./vida/vida2.wav","type":"audio","bank":"vida","n":2},
+  {"url":"./vida/vida4.wav","type":"audio","bank":"vida","n":3},
+  {"url":"./vida/vida5.wav","type":"audio","bank":"vida","n":4},
+  {"url":"./vida/vida6.wav","type":"audio","bank":"vida","n":5}
   
   {"url":"./bici/bici.wav","type":"audio","bank":"bici","n":0},
   {"url":"./bici/bici1.wav","type":"audio","bank":"bici","n":1},
