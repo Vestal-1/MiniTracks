@@ -76,7 +76,7 @@
   {"url":"./vida/vida2.wav","type":"audio","bank":"vida","n":2},
   {"url":"./vida/vida4.wav","type":"audio","bank":"vida","n":3},
   {"url":"./vida/vida5.wav","type":"audio","bank":"vida","n":4},
-  {"url":"./vida/vida6.wav","type":"audio","bank":"vida","n":5}
+  {"url":"./vida/vida6.wav","type":"audio","bank":"vida","n":5},
   
   {"url":"./bici/bici.wav","type":"audio","bank":"bici","n":0},
   {"url":"./bici/bici1.wav","type":"audio","bank":"bici","n":1},
